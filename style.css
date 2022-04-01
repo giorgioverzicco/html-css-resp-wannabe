@@ -73,6 +73,7 @@ img {
 }
 
 /* responsive */
+/* tablet size */
 @media screen and (max-width: 992px) {
   .row {
     width: 100%;
@@ -114,6 +115,7 @@ img {
   }
 }
 
+/* mobile size */
 @media screen and (max-width: 420px) {
   .row {
     width: 100%;
